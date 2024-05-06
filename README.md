@@ -1,3 +1,35 @@
+App description:
+
+1. Welcome Screen and Start Game Button:
+
+When you open the app, you see a friendly welcome message and a button that says "Start Game."
+Clicking the "Start Game" button takes you to the main part of the app where you take care of your virtual pet.
+2. Main Game Screen:
+
+On this screen, you see your virtual pet and some important information about it, like its name and how it's feeling.
+There are buttons to feed, play with, and clean your pet.
+3. Feed Button:
+
+Clicking the feed button gives your pet some food to eat.
+It makes your pet less hungry, so it feels better.
+4. Play Button:
+
+Clicking the play button lets you play with your pet, like throwing a ball or giving it a toy.
+It makes your pet happier, so it feels good.
+5. Clean Button:
+
+Clicking the clean button cleans your pet up, like giving it a bath or brushing its fur.
+It makes your pet cleaner, so it stays healthy.
+6. Percentage Indicators:
+
+There are numbers that show how clean, hungry, and happy your pet is.
+These numbers change when you feed, play, or clean your pet.
+7. Interaction and Feedback:
+
+Everything you do affects how your pet feels.
+When you take care of your pet, you can see it getting happier, cleaner, and less hungry. It's like taking care of a real pet, but on your phone!
+The main goal of the app is to have fun taking care of your virtual pet and making sure it's happy and healthy.
+
 Code:
 
 MainActivity.kt 
